@@ -9,14 +9,6 @@ $cpf = "000.000.00-00"; // String
 $temEmprego = false; // Boolean
 $nome_completo = "João Pedro Holanda Neves"; // String
 
-// Família
-$nomeCompletoDaMae = "Marinalva Neves da Silva";
-$nomeCompletoDaVo = "Josefa das Neves Silva";
-
-// Animais Familiares
-$nomeDaGata = "Julieta";
-$nomeDoCachorro = "Júlio César";
-
 $bebida = "suco";
 
 echo "Meu nome é {$nome}, e eu gosto de beber {$bebida}";
