@@ -5,6 +5,7 @@
 ## Estruturas de repetição
 
 - Aula 16
+- Aula 17
 
 ### [If](./se.php)
 
