@@ -2,10 +2,12 @@
 
 # Introdução ao PHP - Exercícios
 
-## Incremento/decremento e concatenação
+## Incremento/decremento, concatenação e operadores relacionais
 
 - Aula 09
 - Aula 10
+- Aula 11
+- Aula 12
 
 ### **Incremento/Decremento**
 
@@ -46,6 +48,44 @@ echo "Eu me chamo ", $nome, ", tenho ", $idade, " anos e moro em ", $cidade, "."
 
 echo "Eu me chamo {$nome}, tenho {$idade} anos e moro em {$cidade}.";
 echo 'Eu me chamo {$nome}, tenho {$idade} anos e moro em {$cidade}.';
+```
+
+### **Operadores Lógicos**
+
+```php
+$numero = 10;
+
+/* 
+== Igualdade
+=== Identicidade
+< Menor que
+> Maior que
+<= Menor ou igual a
+>= Maior ou igual a 
+
+! Negação
+!= Diferente de
+!== Não idêntico a
+*/
+
+echo $numero > 10;
+```
+
+### **Ternário**
+
+```php
+$idade = 19;
+
+echo ($idade >= 18 ? "Maior" : "Menor") . " de idade.";
+
+echo isset($nome) ? $nome : "Nome não definido";
+
+echo $nome ?? "Nome não definido";
+```
+
+### **Tabela com dados do PHP**
+
+```php
 ```
 
 ## Autor
