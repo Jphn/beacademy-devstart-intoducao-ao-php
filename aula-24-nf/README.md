@@ -8,11 +8,11 @@
 <!-- INDEX -->
 ## ÍNDICE
 
-### Estruturas de repetição
+### Arrays Multidimensionais
 
-- Aula 16
-- Aula 17
-- Aula 18
+- Aula 24
+- Aula 25
+- Aula 26
 
 <!-- MAIN -->
 ## CÓDIGOS

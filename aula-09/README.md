@@ -6,7 +6,7 @@
 
 <!-- BODY -->
 <!-- INDEX -->
-## INDÍCE
+## ÍNDICE
 
 ### Incremento/decremento, concatenação e operadores relacionais
 

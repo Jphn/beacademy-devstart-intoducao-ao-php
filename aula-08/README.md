@@ -6,7 +6,7 @@
 
 <!-- BODY -->
 <!-- INDEX -->
-## INDÍCE
+## ÍNDICE
 
 ### Atribuição de constantes
 

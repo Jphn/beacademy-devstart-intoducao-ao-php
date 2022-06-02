@@ -8,11 +8,13 @@
 <!-- INDEX -->
 ## ÍNDICE
 
-### Estruturas de repetição
+### Arrays
 
-- Aula 16
-- Aula 17
-- Aula 18
+- Aula 19
+- Aula 20
+- Aula 21
+- Aula 22
+- Aula 23
 
 <!-- MAIN -->
 ## CÓDIGOS

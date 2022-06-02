@@ -8,11 +8,14 @@
 <!-- INDEX -->
 ## ÍNDICE
 
-### Estruturas de repetição
+### Manipulação avançada de arquivos e Finalização do CRUD
 
-- Aula 16
-- Aula 17
-- Aula 18
+- Aula 40
+- Aula 41
+- Aula 42
+- Aula 43
+- Aula 44
+- Aula 45
 
 <!-- MAIN -->
 ## CÓDIGOS

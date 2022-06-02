@@ -6,7 +6,7 @@
 
 <!-- BODY -->
 <!-- INDEX -->
-## INDÍCE
+## ÍNDICE
 
 ### Estruturas condicionais
 

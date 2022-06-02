@@ -8,11 +8,12 @@
 <!-- INDEX -->
 ## ÍNDICE
 
-### Estruturas de repetição
+### Include e Funções
 
-- Aula 16
-- Aula 17
-- Aula 18
+- Aula 29
+- Aula 30
+- Aula 31
+- Aula 32
 
 <!-- MAIN -->
 ## CÓDIGOS

@@ -8,11 +8,13 @@
 <!-- INDEX -->
 ## ÍNDICE
 
-### Estruturas de repetição
+### Mais funções e Manipulação inicial de arquivos
 
-- Aula 16
-- Aula 17
-- Aula 18
+- Aula 35
+- Aula 36
+- Aula 37
+- Aula 38
+- Aula 39
 
 <!-- MAIN -->
 ## CÓDIGOS

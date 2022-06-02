@@ -8,11 +8,10 @@
 <!-- INDEX -->
 ## ÍNDICE
 
-### Estruturas de repetição
+### Retorno de funções e Tipos de dados
 
-- Aula 16
-- Aula 17
-- Aula 18
+- Aula 33
+- Aula 34
 
 <!-- MAIN -->
 ## CÓDIGOS
