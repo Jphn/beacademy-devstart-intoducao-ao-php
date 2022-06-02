@@ -24,5 +24,5 @@ function mediaDeNotas( array $notas ): float
     return ( array_sum( $notas ) / count( $notas ) );
 }
 
-echo mediaDeNotas( $notasCursoA ) . "\n";
+echo mediaDeNotas( $notasCursoA ) . PHP_EOL;
 echo mediaDeNotas( $notasCursoB );
