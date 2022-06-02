@@ -16,14 +16,14 @@
 - [Aula 08](./aula-08/)
 - [Aula 09 <-> 12](./aula-09/)
 - [Aula 13 <-> 15](./aula-13/)
-- [Aula 16 <-> 18](./aula-16-nf/)
-- [Aula 19 <-> 23](./aula-19-nf/)
-- [Aula 24 <-> 26](./aula-24-nf/)
-- [Aula 27 <-> 28](./aula-27-nf/)
-- [Aula 29 <-> 32](./aula-29-nf/)
-- [Aula 33 <-> 34](./aula-33-nf/)
-- [Aula 35 <-> 39](./aula-35-nf/)
-- [Aula 40 <-> 45](./aula-40-nf/)
+- [Aula 16 <-> 18](./aula-16/)
+- [Aula 19 <-> 23](./aula-19/)
+- [Aula 24 <-> 26](./aula-24/)
+- [Aula 27 <-> 28](./aula-27/)
+- [Aula 29 <-> 32](./aula-29/)
+- [Aula 33 <-> 34](./aula-33/)
+- [Aula 35 <-> 39](./aula-35/)
+- [Aula 40 <-> 45](./aula-40/)
 
 <!-- /INDEX -->
 <!-- /BODY -->
