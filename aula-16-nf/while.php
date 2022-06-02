@@ -2,8 +2,8 @@
 
 $n = 1;
 
-while ($n <= 10) {
-	echo "Nº {$n}";
+while ( $n <= 10 ) {
+    echo "Nº {$n}";
 
-	$n++;
+    $n++;
 }

@@ -1,6 +1,6 @@
 <?php
 
-// ARRAY ASSOCIATIVO || DICIONÁIO
+// ARRAY ASSOCIATIVO || DICIONÁRIO
 $dados = [
     'nome' => 'João Pedro',
     'sobrenome' => 'Holanda Neves',
@@ -10,4 +10,4 @@ $dados = [
     'corPreferida' => 'Roxo',
 ];
 
-var_dump($dados);
+var_dump( $dados );

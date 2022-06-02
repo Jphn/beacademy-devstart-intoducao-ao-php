@@ -18,7 +18,7 @@
 ## CÓDIGOS
 
 <!-- SECTION -->
-### [If](./se.php)
+### [IF](./se.php)
 
 ```php
 $n = 10;
@@ -28,7 +28,7 @@ if ($n > 0) echo "Positivo"; // Output: Positivo
 <!-- /SECTION -->
 
 <!-- SECTION -->
-### [If Else](./se-senao.php)
+### [IF ELSE](./se-senao.php)
 
 ```php
 $n = 10;
@@ -43,7 +43,7 @@ if ($n > 0) {
 <!-- /SECTION -->
 
 <!-- SECTION -->
-### [If Else If](./se-senao-se.php)
+### [IF ELSE IF](./se-senao-se.php)
 
 ```php
 $n = 10;
@@ -59,7 +59,7 @@ if ($n > 0) {
 <!-- /SECTION -->
 
 <!-- SECTION -->
-### [Exercício If](./exercicio-se.php)
+### [Exercício IF](./exercicio-se.php)
 
 ```php
 $n = 10;
